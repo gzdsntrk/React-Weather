@@ -5,9 +5,11 @@
 
 ## Projenin Genel Amacı
 * React proje hazırlamak isteyenler için örnek bir çalışma sunmak
-* React kütüphanesi içerisinde HTML, CSS ve JavaScript'i harmanlayarak bir tasarım dosyasını kullanılabilir hale getirmek 
+* React kütüphanesi içerisinde HTML, Tailwind ve JavaScript'i harmanlayarak bir tasarım dosyasını kullanılabilir hale getirmek 
 * React kullanımında component yapısı,props,state kullanımını öğrenmek
-* Sayfalar arasında geçiş sağlayan Routing mantığını anlamak
+* API'den veri çekme işlemini gerçekleştirmek
+* Tailwind kullanımı
+* Netlify ile build almak
 
 ## Projede Kullanılan Teknolojiler
 * HTML, Tailwind, JavaScript, React
@@ -35,7 +37,12 @@
 
 
 
-
+## Kaynaklar
+1. [API](https://openweathermap.org/api)
+2. [Tailwind](https://tailwindcss.com/)
+3. [w3schools](https://www.w3schools.com/)
+4. [Patika](https://www.patika.dev/tr)
+5. [Netlify](https://www.netlify.com/with/react/)
 
 
 
