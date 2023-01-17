@@ -11,7 +11,7 @@ function App() {
     const getApi = async () => {
       const key = '7d78c82a12c8fca2c3762748f39530d1';
       try {
-        const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${search}&APPID=${key}&units=metric`);
+        const response = await axios.get(`//api.openweathermap.org/data/2.5/weather?q=${search}&APPID=${key}&units=metric`);
         setCity(response.data);
       } catch (error) {
         console.error(error);
