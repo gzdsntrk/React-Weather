@@ -1,3 +1,35 @@
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer components {
+    .weather-status{
+        @apply block
+        bg-slate-200;
+     }
+     
+     .weather-status span{
+        @apply block
+        border-b
+        border-solid
+        border-black
+        py-1;
+        
+      }
+     
+      .weather-search{
+        @apply block
+        bg-slate-100
+        py-3;
+      }
+      .weather-box{
+        @apply block
+         w-[320px]
+         mr-auto
+         ml-auto
+         text-center;
+
+
+      }
+}
