@@ -47,7 +47,3 @@
 3. [w3schools](https://www.w3schools.com/)
 4. [Patika](https://www.patika.dev/tr)
 5. [Netlify](https://www.netlify.com/with/react/)
-
-
-
-
