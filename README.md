@@ -37,7 +37,7 @@
 
 
 ## Porje Görseli
-![](ReactWeather.png)
+![](image)
 
 
 
