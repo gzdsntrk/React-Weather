@@ -36,6 +36,10 @@
   ### `npm run start`
 
 
+## Porje Görseli
+![](ReactWeather.png)
+
+
 
 ## Kaynaklar
 1. [API](https://openweathermap.org/api)

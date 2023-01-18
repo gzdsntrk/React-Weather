@@ -5,12 +5,14 @@
 
 @layer components {
     .weather-status{
-        @apply block
+        @apply 
+        block
         bg-slate-200;
      }
      
      .weather-status span{
-        @apply block
+        @apply 
+        block
         border-b
         border-solid
         border-black
@@ -19,12 +21,14 @@
       }
      
       .weather-search{
-        @apply block
+        @apply 
+        block
         bg-slate-100
         py-3;
       }
       .weather-box{
-        @apply block
+        @apply
+         block
          w-[320px]
          mr-auto
          ml-auto
