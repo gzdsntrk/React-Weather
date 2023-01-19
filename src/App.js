@@ -9,7 +9,7 @@ function App() {
 
   useEffect(() => {
     const getApi = async () => {
-      const key = '7d78c82a12c8fca2c3762748f39530d1';
+      const key = '3fd4192021190f1676326c60408297f3';
       try {
         const response = await axios.get(`http://api.openweathermap.org/data/2.5/weather?q=${search}&APPID=${key}&units=metric`);
         setCity(response.data);
@@ -23,6 +23,7 @@ function App() {
   return (
     <>
       <div className="weather-box">
+       
         <div className="weather-search">
           <input
             onChange={(e) => setSearch(e.target.value)}
